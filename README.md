@@ -25,4 +25,4 @@ Criamos um sistema de alerta que detecta a altura da água usando um sensor ultr
 - [Acesse o projeto aqui](https://wokwi.com/projects/433065321453283329)
 
 ## Vídeo Demonstrativo
-- [Assista ao vídeo aqui](https://)
+- [Assista ao vídeo aqui](https://youtu.be/m1n3I2lV2-g)
