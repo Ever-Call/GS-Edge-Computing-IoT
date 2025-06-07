@@ -17,9 +17,9 @@ Criamos um sistema de alerta que detecta a altura da água usando um sensor ultr
 - Simulador Wokwi
 
 ## Funcionamento
-- Até 20 cm: nível seguro (LCD indica "Nível Seguro")
-- Entre 10 e 20 cm: nível de atenção (LCD indica "Atenção")
-- Abaixo de 10 cm: nível de alerta (LED acende, buzzer toca, LCD mostra "ALERTA!")
+- Até 30 cm: nível seguro (LCD indica "Nível Seguro")
+- Entre 20 e 300 cm: nível de atenção (LCD indica "Atenção")
+- Abaixo de 20 cm: nível de alerta (LED acende, buzzer toca, LCD mostra "ALERTA!")
 
 ## Simulador Wokwi
 - [Acesse o projeto aqui](https://wokwi.com/projects/433065321453283329)
