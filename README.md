@@ -22,7 +22,7 @@ Criamos um sistema de alerta que detecta a altura da água usando um sensor ultr
 - Abaixo de 10 cm: nível de alerta (LED acende, buzzer toca, LCD mostra "ALERTA!")
 
 ## Simulador Wokwi
-- [Acesse o projeto aqui]([https://wokwi.com/projects/SEU-LINK-AQUI](https://wokwi.com/projects/430746070009397249))
+- [Acesse o projeto aqui](https://wokwi.com/projects/SEU-LINK-AQUI](https://wokwi.com/projects/430746070009397249)
 
 ## Vídeo Demonstrativo
 - [Assista ao vídeo aqui](https://)
